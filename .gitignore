@@ -1,0 +1,4 @@
+node_modules/
+PROJETO.MD
+backend/.env
+frontend/.env
